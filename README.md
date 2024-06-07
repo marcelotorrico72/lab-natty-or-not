@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Prazer, Google Gemini!
 
 ## 📒 Descrição
 Como seria uma IA se ela fosse uma pessoa?
